@@ -1,4 +1,8 @@
-# keyboards
+# keyboards > adaptation for Pragmatic54
+
+Pragmatic54 Product Link:
+https://www.pragmatic.com.tw/shop/choc54-62#attr=224,97,77
+
 
 Supporting simulated annealing code for the [Why I Made The World's Worst Keyboard](https://youtu.be/188fipF-i5I) YouTube video.
 
