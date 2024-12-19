@@ -488,7 +488,7 @@ function runSA(
     bestObjective = currentObjective
 
     drawKeyboard(PRAGMATICgenome, 0, currentLayoutMap)
-    drawKeyboard(bestGenome, 1, currentLayoutMap)
+    # drawKeyboard(bestGenome, 1, currentLayoutMap)
 
     # run SA
     staticCount = 0.0
